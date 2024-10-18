@@ -231,7 +231,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"heavy_attack",
-"speed": 5.0
+"speed": 8.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -288,7 +288,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"jump",
-"speed": 5.0
+"speed": 6.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -311,7 +311,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"quick_attack",
-"speed": 5.0
+"speed": 60.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -351,14 +351,16 @@ animations = [{
 }],
 "loop": true,
 "name": &"spin_attack",
-"speed": 5.0
+"speed": 60.0
 }]
 
 [node name="player" type="CharacterBody2D"]
 script = ExtResource("1_r64uk")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -13)
 sprite_frames = SubResource("SpriteFrames_1ftpy")
-animation = &"run"
+animation = &"idle"
+frame_progress = 0.161863
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
