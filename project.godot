@@ -11,13 +11,9 @@ config_version=5
 [application]
 
 config/name="Ironroot"
-run/main_scene="res://Scenes/player.tscn"
+run/main_scene="res://Scenes/world.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://Assets/icon.svg"
-
-[display]
-
-window/stretch/scale=4.0
 
 [input]
 
