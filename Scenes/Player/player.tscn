@@ -1,6 +1,6 @@
 [gd_scene load_steps=49 format=3 uid="uid://c0vcufodljhla"]
 
-[ext_resource type="Script" path="res://Scripts/player.gd" id="1_r64uk"]
+[ext_resource type="Script" path="res://Scripts/Player/player.gd" id="1_r64uk"]
 [ext_resource type="Texture2D" uid="uid://dqnsumn6louju" path="res://Assets/Dwarf Sprite Sheet 1.3v.png" id="2_bvow5"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_044dg"]
