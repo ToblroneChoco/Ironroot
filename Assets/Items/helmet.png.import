@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cndwbpwkalumj"
-path="res://.godot/imported/walls.png-656140e73eae275ba08c5757c5a04b02.ctex"
+uid="uid://daor1wfwt6yv0"
+path="res://.godot/imported/helmet.png-65fe698c15c2f04a3113b5988552933d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/walls.png"
-dest_files=["res://.godot/imported/walls.png-656140e73eae275ba08c5757c5a04b02.ctex"]
+source_file="res://Assets/Items/helmet.png"
+dest_files=["res://.godot/imported/helmet.png-65fe698c15c2f04a3113b5988552933d.ctex"]
 
 [params]
 

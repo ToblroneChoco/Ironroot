@@ -1,7 +1,7 @@
 class_name ItemData
 extends Resource
 
-enum Type {HEAD, CHEST, LEGS, FEET, INVENTORY}
+enum Type {HEAD, CHEST, LEGS, FEET, MAIN, ACCESSORY, INVENTORY}
 
 @export var type: Type
 @export var item_name: String

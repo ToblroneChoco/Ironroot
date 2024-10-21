@@ -1,3 +1,13 @@
-[gd_resource type="Resource" format=3 uid="uid://dc0fiwpx18nje"]
+[gd_resource type="Resource" script_class="ItemData" load_steps=3 format=3 uid="uid://dc0fiwpx18nje"]
+
+[ext_resource type="Texture2D" uid="uid://daor1wfwt6yv0" path="res://Assets/Items/helmet.png" id="1_3onao"]
+[ext_resource type="Script" path="res://Scripts/Player/GUI/Item_Data.gd" id="2_nn1ij"]
 
 [resource]
+script = ExtResource("2_nn1ij")
+type = 0
+item_name = "Iron Skullbearer"
+item_damage = 1
+item_defense = 5
+description = ""
+item_texture = ExtResource("1_3onao")

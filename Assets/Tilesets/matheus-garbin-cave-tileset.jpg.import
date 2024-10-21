@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bjyq5ijscj7nn"
-path="res://.godot/imported/tileset.png-06023f60f54ec986b75003a8d422612f.ctex"
+uid="uid://crftgjam3iqpc"
+path="res://.godot/imported/matheus-garbin-cave-tileset.jpg-e35bfd9f07bc0992a13a6a12978d96e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/tileset.png"
-dest_files=["res://.godot/imported/tileset.png-06023f60f54ec986b75003a8d422612f.ctex"]
+source_file="res://Assets/Tilesets/matheus-garbin-cave-tileset.jpg"
+dest_files=["res://.godot/imported/matheus-garbin-cave-tileset.jpg-e35bfd9f07bc0992a13a6a12978d96e6.ctex"]
 
 [params]
 
